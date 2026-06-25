@@ -1,0 +1,15 @@
+# Generated output — contains your real session prompts. DO NOT COMMIT.
+sessions.html
+*.local.html
+_preview-*.html
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / tooling
+.DS_Store
+.playwright-mcp/
+*.tmp
+
+# NOTE: examples/demo.html is built from bundled synthetic data and IS committed.
